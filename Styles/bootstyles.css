@@ -1,0 +1,55 @@
+.header{
+    height:30px;
+    background-color: lightgrey;
+    line-height:30px;
+    font-size: 15px;
+    text-align: left
+}
+
+.navigate{
+    text-align: Left;
+    height:11px;
+    line-height:2px;
+    font-size: 10px;
+    
+}
+
+body{
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+.footer{
+    height: 50px;
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}
+
+.caption{
+    font-style:italic;
+    font-size: 20px;
+}
+
+.graph{
+    width: 800px; 
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.common{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkslategray
+}
+
+h2{
+    text-decoration:underline
+}
+h1{
+    font-size: 60px;
+}
+
+
+
